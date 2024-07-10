@@ -46,7 +46,7 @@
 ## Learn Object Oriented Programming
 
 - Classes (DONE)
-- Encapsulation
+- Encapsulation (DONE)
 - Abstraction
 - Inheritance
 - Polymorphysm
