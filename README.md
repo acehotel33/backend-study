@@ -48,6 +48,6 @@
 - Classes (DONE)
 - Encapsulation (DONE)
 - Abstraction (DONE)
-- Inheritance
+- Inheritance (DONE)
 - Polymorphysm
 
