@@ -1,6 +1,6 @@
 # Study Progress
 
-## Learn Python
+## Learn Python (DONE)
 
 - Intro (DONE)
 - Variables (DONE)
@@ -17,7 +17,7 @@
 - Challenges (DONE)
 - Quiz (DONE)
 
-## Learn Shells and Terminal
+## Learn Shells and Terminal (DONE)
 
 - Terminals and Shells (DONE)
 - Filesystems (DONE)
@@ -25,7 +25,7 @@
 - Programs (DONE)
 - Packages (DONE)
 
-## Learn Git
+## Learn Git (DONE)
 
 - Setup (DONE)
 - Repositories (DONE)
@@ -39,15 +39,31 @@
 - GitHub (DONE)
 - Gitignore (DONE)
 
-## Build a Bookbot
+## Build a Bookbot (DONE)
 
 - Guided Project (DONE)
 
-## Learn Object Oriented Programming
+## Learn Object Oriented Programming (DONE)
 
 - Classes (DONE)
 - Encapsulation (DONE)
 - Abstraction (DONE)
 - Inheritance (DONE)
-- Polymorphysm
+- Polymorphysm (DONE)
+
+## Learn Functional Programming
+
+- What is Functional Programming?
+- First Class Functions
+- Pure Functions
+- Recursion
+- Function Transformations
+- Closures
+- Currying
+- Decorators
+- Sum Types
+
+
+
+
 
