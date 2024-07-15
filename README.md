@@ -53,8 +53,8 @@
 
 ## Learn Functional Programming
 
-- What is Functional Programming?
-- First Class Functions
+- What is Functional Programming? (DONE)
+- First Class Functions (DONE)
 - Pure Functions
 - Recursion
 - Function Transformations
