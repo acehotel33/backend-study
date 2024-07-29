@@ -55,7 +55,7 @@
 
 - What is Functional Programming? (DONE)
 - First Class Functions (DONE)
-- Pure Functions
+- Pure Functions (DONE)
 - Recursion
 - Function Transformations
 - Closures
