@@ -57,7 +57,7 @@
 - First Class Functions (DONE)
 - Pure Functions (DONE)
 - Recursion (DONE)
-- Function Transformations
+- Function Transformations (DONE)
 - Closures
 - Currying
 - Decorators
