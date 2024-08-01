@@ -58,7 +58,7 @@
 - Pure Functions (DONE)
 - Recursion (DONE)
 - Function Transformations (DONE)
-- Closures
+- Closures (DONE)
 - Currying
 - Decorators
 - Sum Types
