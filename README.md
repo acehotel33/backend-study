@@ -59,7 +59,7 @@
 - Recursion (DONE)
 - Function Transformations (DONE)
 - Closures (DONE)
-- Currying
+- Currying (DONE)
 - Decorators
 - Sum Types
 
