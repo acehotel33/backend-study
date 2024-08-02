@@ -60,7 +60,7 @@
 - Function Transformations (DONE)
 - Closures (DONE)
 - Currying (DONE)
-- Decorators
+- Decorators (DONE)
 - Sum Types
 
 
