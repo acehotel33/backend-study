@@ -61,7 +61,8 @@
 - Closures (DONE)
 - Currying (DONE)
 - Decorators (DONE)
-- Sum Types
+- Sum Types (DONE)
+
 
 
 
