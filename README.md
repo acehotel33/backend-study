@@ -63,7 +63,13 @@
 - Decorators (DONE)
 - Sum Types (DONE)
 
+## Build a Static Site Generator
 
+- Static Sites (DONE)
+- Nodes (IN PROGRESS)
+- Inline
+- Blocks
+- Website
 
 
 
