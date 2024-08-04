@@ -66,7 +66,7 @@
 ## Build a Static Site Generator
 
 - Static Sites (DONE)
-- Nodes (IN PROGRESS)
+- Nodes (IN PROGRESS..)
 - Inline
 - Blocks
 - Website
