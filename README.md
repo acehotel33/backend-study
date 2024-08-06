@@ -67,7 +67,7 @@
 
 - Static Sites (DONE)
 - Nodes (DONE)
-- Inline
+- Inline (IN PROGRESS)
 - Blocks
 - Website
 
