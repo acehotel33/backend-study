@@ -69,7 +69,16 @@
 - Nodes (DONE)
 - Inline (DONE)
 - Blocks (DONE)
-- Website
+- Website (DONE)
+
+## Algorithms
+
+- Introduction (DONE)
+- Math
+- Polynomial Time
+- Sorting Algorithms
+- Exponential Time
+- P vs NP
 
 
 
