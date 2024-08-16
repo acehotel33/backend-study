@@ -75,7 +75,7 @@
 
 - Introduction (DONE)
 - Math (DONE)
-- Polynomial Time
+- Polynomial Time (DONE)
 - Sorting Algorithms
 - Exponential Time
 - P vs NP
