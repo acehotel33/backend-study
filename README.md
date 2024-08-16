@@ -71,10 +71,10 @@
 - Blocks (DONE)
 - Website (DONE)
 
-## Algorithms
+## Learn Algorithms
 
 - Introduction (DONE)
-- Math
+- Math (DONE)
 - Polynomial Time
 - Sorting Algorithms
 - Exponential Time
