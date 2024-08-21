@@ -82,7 +82,7 @@
 
 ## Learn Data Structures
 
-- Introduction
+- Introduction (DONE)
 - Stacks
 - Queues
 - Trees
