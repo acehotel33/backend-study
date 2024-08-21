@@ -63,7 +63,7 @@
 - Decorators (DONE)
 - Sum Types (DONE)
 
-## Build a Static Site Generator
+## Build a Static Site Generator (DONE)
 
 - Static Sites (DONE)
 - Nodes (DONE)
@@ -71,14 +71,14 @@
 - Blocks (DONE)
 - Website (DONE)
 
-## Learn Algorithms
+## Learn Algorithms (DONE)
 
 - Introduction (DONE)
 - Math (DONE)
 - Polynomial Time (DONE)
 - Sorting Algorithms (DONE)
 - Exponential Time (DONE)
-- P vs NP (IN PROGRESS)
+- P vs NP (DONE)
 
 
 
