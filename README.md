@@ -80,6 +80,15 @@
 - Exponential Time (DONE)
 - P vs NP (DONE)
 
+## Learn Data Structures
 
+- Introduction
+- Stacks
+- Queues
+- Trees
+- Hashmaps
+- Tries
+- Graphs
+- BFS and DFS
 
 
