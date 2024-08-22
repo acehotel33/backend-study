@@ -83,7 +83,7 @@
 ## Learn Data Structures
 
 - Introduction (DONE)
-- Stacks
+- Stacks (DONE)
 - Queues
 - Trees
 - Hashmaps
