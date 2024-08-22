@@ -84,7 +84,7 @@
 
 - Introduction (DONE)
 - Stacks (DONE)
-- Queues
+- Queues (IN PROGRESS)
 - Trees
 - Hashmaps
 - Tries
