@@ -86,7 +86,7 @@
 - Stacks (DONE)
 - Queues (DONE)
 - Trees (DONE) 
-- Hashmaps
+- Hashmaps (DONE)
 - Tries
 - Graphs
 - BFS and DFS
