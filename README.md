@@ -87,7 +87,7 @@ tw# Study Progress
 - Queues (DONE)
 - Trees (DONE) 
 - Hashmaps (DONE)
-- Tries (IN PROGRESS...)
+- Tries (DONE)
 - Graphs
 - BFS and DFS
 
