@@ -1,4 +1,4 @@
-# Study Progress
+tw# Study Progress
 
 ## Learn Python (DONE)
 
@@ -87,7 +87,7 @@
 - Queues (DONE)
 - Trees (DONE) 
 - Hashmaps (DONE)
-- Tries (IN PROGRESS)
+- Tries (IN PROGRESS...)
 - Graphs
 - BFS and DFS
 
