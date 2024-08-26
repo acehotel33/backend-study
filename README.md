@@ -87,7 +87,7 @@
 - Queues (DONE)
 - Trees (DONE) 
 - Hashmaps (DONE)
-- Tries
+- Tries (IN PROGRESS)
 - Graphs
 - BFS and DFS
 
