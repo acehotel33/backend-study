@@ -91,4 +91,4 @@ tw# Study Progress
 - Graphs (DONE)
 - BFS and DFS (DONE)
 
-## Build a Maze Solver
+## Build a Maze Solver (IN PROGRESS)
