@@ -80,7 +80,7 @@ tw# Study Progress
 - Exponential Time (DONE)
 - P vs NP (DONE)
 
-## Learn Data Structures
+## Learn Data Structures (DONE)
 
 - Introduction (DONE)
 - Stacks (DONE)
@@ -91,4 +91,4 @@ tw# Study Progress
 - Graphs (DONE)
 - BFS and DFS (DONE)
 
-
+## Build a Maze Solver
