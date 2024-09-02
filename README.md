@@ -1,4 +1,4 @@
-tw# Study Progress
+# Study Progress
 
 ## Learn Python (DONE)
 
@@ -91,4 +91,37 @@ tw# Study Progress
 - Graphs (DONE)
 - BFS and DFS (DONE)
 
-## Build a Maze Solver (IN PROGRESS)
+## Build a Maze Solver (DONE)
+
+- Setup (DONE)
+- Working with Tkinter (DONE)
+- Create a Window Class (DONE)
+- Drawing some lines (DONE)
+- Cell Class (DONE)
+- Cell draw_move Method (DONE)
+- Maze Class (DONE)
+- Maze Tests (DONE)
+- Breaking Down Walls (DONE)
+- Breaking All Walls (DONE)
+- Reset Cell's Visited Property (DONE)
+- Solve the Maze (DONE)
+- Submit Link (DONE)
+
+## Learn Go
+
+- Variables
+- Conditionals
+- Functions
+- Structs
+- Interfaces
+- Errors
+- Loops
+- Slices
+- Maps
+- Pointers
+- Packages and Modules
+- Channels
+- Mutexes
+- Generics
+- Enums
+- Quiz
