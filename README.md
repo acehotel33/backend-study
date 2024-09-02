@@ -109,7 +109,7 @@
 
 ## Learn Go
 
-- Variables
+- Variables (DONE)
 - Conditionals
 - Functions
 - Structs
