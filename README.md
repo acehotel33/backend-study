@@ -111,7 +111,7 @@
 
 - Variables (DONE)
 - Conditionals (DONE)
-- Functions
+- Functions (DONE)
 - Structs
 - Interfaces
 - Errors
