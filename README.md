@@ -110,7 +110,7 @@
 ## Learn Go
 
 - Variables (DONE)
-- Conditionals
+- Conditionals (DONE)
 - Functions
 - Structs
 - Interfaces
