@@ -112,7 +112,7 @@
 - Variables (DONE)
 - Conditionals (DONE)
 - Functions (DONE)
-- Structs
+- Structs (DONE)
 - Interfaces
 - Errors
 - Loops
