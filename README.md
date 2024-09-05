@@ -115,7 +115,7 @@
 - Structs (DONE)
 - Interfaces (DONE)
 - Errors (DONE)
-- Loops
+- Loops (DONE)
 - Slices
 - Maps
 - Pointers
