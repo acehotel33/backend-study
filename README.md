@@ -114,7 +114,7 @@
 - Functions (DONE)
 - Structs (DONE)
 - Interfaces (DONE)
-- Errors
+- Errors (DONE)
 - Loops
 - Slices
 - Maps
