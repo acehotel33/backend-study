@@ -113,7 +113,7 @@
 - Conditionals (DONE)
 - Functions (DONE)
 - Structs (DONE)
-- Interfaces
+- Interfaces (DONE)
 - Errors
 - Loops
 - Slices
