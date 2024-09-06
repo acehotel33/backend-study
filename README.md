@@ -116,7 +116,7 @@
 - Interfaces (DONE)
 - Errors (DONE)
 - Loops (DONE)
-- Slices (DONE)
+- Slices (DONE) - Squished my brains in Currying
 - Maps
 - Pointers
 - Packages and Modules
