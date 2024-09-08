@@ -117,7 +117,7 @@
 - Errors (DONE)
 - Loops (DONE)
 - Slices (DONE) - Squished my brains in Currying
-- Maps (IN PROGRESS)
+- Maps (Completed except for Assignments)
 - Pointers
 - Packages and Modules
 - Channels
