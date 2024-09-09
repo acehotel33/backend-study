@@ -118,7 +118,7 @@
 - Loops (DONE)
 - Slices (DONE) - Squished my brains in Currying
 - Maps (DONE)
-- Pointers
+- Pointers (IN PROGRESS)
 - Packages and Modules
 - Channels
 - Mutexes
