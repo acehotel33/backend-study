@@ -120,7 +120,7 @@
 - Maps (DONE)
 - Pointers (DONE)
 - Packages and Modules (DONE)
-- Channels
+- Channels (IN PROGRESS)
 - Mutexes
 - Generics
 - Enums
