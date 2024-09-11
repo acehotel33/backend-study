@@ -119,7 +119,7 @@
 - Slices (DONE) - Squished my brains in Currying
 - Maps (DONE)
 - Pointers (DONE)
-- Packages and Modules
+- Packages and Modules (DONE)
 - Channels
 - Mutexes
 - Generics
