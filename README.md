@@ -51,7 +51,7 @@
 - Inheritance (DONE)
 - Polymorphysm (DONE)
 
-## Learn Functional Programming
+## Learn Functional Programming (DONE)
 
 - What is Functional Programming? (DONE)
 - First Class Functions (DONE)
