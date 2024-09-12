@@ -123,5 +123,5 @@
 - Channels (DONE) 
 - Mutexes (DONE)
 - Generics (DONE)
-- Enums
+- Enums (DONE)
 - Quiz
