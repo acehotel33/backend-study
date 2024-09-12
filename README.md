@@ -107,7 +107,7 @@
 - Solve the Maze (DONE)
 - Submit Link (DONE)
 
-## Learn Go
+## Learn Go (DONE)
 
 - Variables (DONE)
 - Conditionals (DONE)
@@ -124,4 +124,4 @@
 - Mutexes (DONE)
 - Generics (DONE)
 - Enums (DONE)
-- Quiz
+- Quiz (DONE)
