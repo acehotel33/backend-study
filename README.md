@@ -121,7 +121,7 @@
 - Pointers (DONE)
 - Packages and Modules (DONE)
 - Channels (DONE) 
-- Mutexes (IN PROGRESS)
+- Mutexes (DONE)
 - Generics
 - Enums
 - Quiz
