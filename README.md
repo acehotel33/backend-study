@@ -122,6 +122,6 @@
 - Packages and Modules (DONE)
 - Channels (DONE) 
 - Mutexes (DONE)
-- Generics
+- Generics (DONE)
 - Enums
 - Quiz
