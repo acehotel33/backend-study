@@ -128,7 +128,7 @@
 
 ## Learn HTTP Clients
 
-- Why HTTP?
+- Why HTTP? (DONE)
 - JSON
 - DNS
 - URIs
