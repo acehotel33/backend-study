@@ -130,7 +130,7 @@
 
 - Why HTTP? (DONE)
 - JSON (DONE)
-- DNS
+- DNS (DONE)
 - URIs
 - Headers
 - Methods
