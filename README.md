@@ -125,3 +125,16 @@
 - Generics (DONE)
 - Enums (DONE)
 - Quiz (DONE)
+
+## Learn HTTP Clients
+
+- Why HTTP?
+- JSON
+- DNS
+- URIs
+- Headers
+- Methods
+- Paths
+- HTTPS
+- Errors
+- cURL
