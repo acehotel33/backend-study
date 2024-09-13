@@ -129,7 +129,7 @@
 ## Learn HTTP Clients
 
 - Why HTTP? (DONE)
-- JSON
+- JSON (DONE)
 - DNS
 - URIs
 - Headers
