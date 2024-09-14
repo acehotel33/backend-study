@@ -132,7 +132,7 @@
 - JSON (DONE)
 - DNS (DONE)
 - URIs (DONE)
-- Headers
+- Headers (DONE)
 - Methods
 - Paths
 - HTTPS
