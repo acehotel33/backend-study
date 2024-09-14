@@ -131,7 +131,7 @@
 - Why HTTP? (DONE)
 - JSON (DONE)
 - DNS (DONE)
-- URIs
+- URIs (DONE)
 - Headers
 - Methods
 - Paths
