@@ -133,7 +133,7 @@
 - DNS (DONE)
 - URIs (DONE)
 - Headers (DONE)
-- Methods
+- Methods (DONE)
 - Paths
 - HTTPS
 - Errors
