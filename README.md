@@ -134,7 +134,7 @@
 - URIs (DONE)
 - Headers (DONE)
 - Methods (DONE)
-- Paths (IN PROGRESS..)
+- Paths (DONE)
 - HTTPS
 - Errors
 - cURL
