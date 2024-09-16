@@ -137,4 +137,4 @@
 - Paths (DONE)
 - HTTPS (DONE)
 - Errors (DONE)
-- cURL
+- cURL (DONE)
