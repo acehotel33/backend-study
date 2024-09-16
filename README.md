@@ -136,5 +136,5 @@
 - Methods (DONE)
 - Paths (DONE)
 - HTTPS (DONE)
-- Errors
+- Errors (DONE)
 - cURL
