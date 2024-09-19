@@ -138,3 +138,17 @@
 - HTTPS (DONE)
 - Errors (DONE)
 - cURL (DONE)
+
+## Build a Pokedex (DONE)
+
+## Learn HTTP Servers
+
+- Servers
+- Routing
+- Architecture
+- JSON
+- Storage
+- Authentication
+- Authorization
+- Webhooks
+- Documentation
