@@ -143,7 +143,7 @@
 
 ## Learn HTTP Servers
 
-- Servers
+- Servers (DONE)
 - Routing
 - Architecture
 - JSON
