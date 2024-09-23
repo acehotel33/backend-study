@@ -144,7 +144,7 @@
 ## Learn HTTP Servers
 
 - Servers (DONE)
-- Routing
+- Routing (DONE)
 - Architecture
 - JSON
 - Storage
