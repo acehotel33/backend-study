@@ -145,7 +145,7 @@
 
 - Servers (DONE)
 - Routing (DONE)
-- Architecture
+- Architecture (DONE)
 - JSON
 - Storage
 - Authentication
