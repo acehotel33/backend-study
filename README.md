@@ -143,7 +143,7 @@
 
 ## Learn SQL
 
-- Introduction
+- Introduction (DONE)
 - Tables
 - Constraints
 - CRUD
