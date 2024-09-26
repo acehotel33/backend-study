@@ -144,7 +144,7 @@
 ## Learn SQL
 
 - Introduction (DONE)
-- Tables
+- Tables (DONE)
 - Constraints
 - CRUD
 - Basic Queries
