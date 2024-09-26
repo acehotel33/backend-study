@@ -141,6 +141,20 @@
 
 ## Build a Pokedex (DONE)
 
+## Learn SQL
+
+- Introduction
+- Tables
+- Constraints
+- CRUD
+- Basic Queries
+- Structuring
+- Aggregations
+- Subqueries
+- Normalization
+- Joins
+- Performance
+
 ## Learn HTTP Servers
 
 - Servers (DONE)
