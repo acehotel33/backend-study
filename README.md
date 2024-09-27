@@ -146,7 +146,7 @@
 - Introduction (DONE)
 - Tables (DONE)
 - Constraints (DONE)
-- CRUD
+- CRUD (DONE)
 - Basic Queries
 - Structuring
 - Aggregations
