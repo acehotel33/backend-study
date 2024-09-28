@@ -147,7 +147,7 @@
 - Tables (DONE)
 - Constraints (DONE)
 - CRUD (DONE)
-- Basic Queries
+- Basic Queries (DONE)
 - Structuring
 - Aggregations
 - Subqueries
