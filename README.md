@@ -148,7 +148,7 @@
 - Constraints (DONE)
 - CRUD (DONE)
 - Basic Queries (DONE)
-- Structuring
+- Structuring (DONE)
 - Aggregations
 - Subqueries
 - Normalization
