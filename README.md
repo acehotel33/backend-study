@@ -149,7 +149,7 @@
 - CRUD (DONE)
 - Basic Queries (DONE)
 - Structuring (DONE)
-- Aggregations
+- Aggregations (DONE)
 - Subqueries
 - Normalization
 - Joins
