@@ -150,7 +150,7 @@
 - Basic Queries (DONE)
 - Structuring (DONE)
 - Aggregations (DONE)
-- Subqueries
+- Subqueries (in progress)
 - Normalization
 - Joins
 - Performance
