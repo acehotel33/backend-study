@@ -152,7 +152,7 @@
 - Aggregations (DONE)
 - Subqueries (DONE)
 - Normalization (DONE)
-- Joins
+- Joins (DONE)
 - Performance
 
 ## Learn HTTP Servers
