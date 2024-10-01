@@ -151,7 +151,7 @@
 - Structuring (DONE)
 - Aggregations (DONE)
 - Subqueries (DONE)
-- Normalization (in progress)
+- Normalization (DONE)
 - Joins
 - Performance
 
