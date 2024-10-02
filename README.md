@@ -141,7 +141,7 @@
 
 ## Build a Pokedex (DONE)
 
-## Learn SQL
+## Learn SQL (DONE)
 
 - Introduction (DONE)
 - Tables (DONE)
