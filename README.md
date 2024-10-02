@@ -153,7 +153,7 @@
 - Subqueries (DONE)
 - Normalization (DONE)
 - Joins (DONE)
-- Performance
+- Performance (DONE)
 
 ## Learn HTTP Servers
 
