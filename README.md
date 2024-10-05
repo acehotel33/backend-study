@@ -161,7 +161,7 @@
 - Routing (DONE)
 - Architecture (DONE)
 - JSON (DONE)
-- Storage (IN PROGRESS...)
+- Storage (DONE)
 - Authentication
 - Authorization
 - Webhooks
