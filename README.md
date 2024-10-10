@@ -162,7 +162,7 @@
 - Architecture (DONE)
 - JSON (DONE)
 - Storage (DONE)
-- Authentication
+- Authentication (DONE)
 - Authorization
 - Webhooks
 - Documentation
