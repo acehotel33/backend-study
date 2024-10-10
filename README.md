@@ -163,6 +163,6 @@
 - JSON (DONE)
 - Storage (DONE)
 - Authentication (DONE)
-- Authorization
+- Authorization (DONE)
 - Webhooks
 - Documentation
