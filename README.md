@@ -166,3 +166,11 @@
 - Authorization (DONE)
 - Webhooks (DONE)
 - Documentation (DONE)
+
+## Build a Blog Aggregator
+
+- Config
+- Database
+- RSS
+- Following
+- Aggregate
