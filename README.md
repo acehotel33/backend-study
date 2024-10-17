@@ -170,7 +170,7 @@
 ## Build a Blog Aggregator
 
 - Config (DONE)
-- Database
+- Database (DONE)
 - RSS
 - Following
 - Aggregate
