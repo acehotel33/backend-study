@@ -171,6 +171,6 @@
 
 - Config (DONE)
 - Database (DONE)
-- RSS
+- RSS (DONE)
 - Following
 - Aggregate
