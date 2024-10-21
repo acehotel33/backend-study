@@ -167,10 +167,30 @@
 - Webhooks (DONE)
 - Documentation (DONE)
 
-## Build a Blog Aggregator
+## Build a Blog Aggregator (DONE)
 
 - Config (DONE)
 - Database (DONE)
 - RSS (DONE)
-- Following
-- Aggregate
+- Following (DONE)
+- Aggregate (DONE)
+
+## Learn Docker
+
+- Install
+- Command line
+- Storage
+- Networks
+- Dockerfiles
+- Publish
+
+## Learn CI/CD
+
+- Continuous Integration
+- Tests
+- Formatting
+- Linting
+- Security
+- Build
+- Deploy
+- Database
