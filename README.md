@@ -177,7 +177,7 @@
 
 ## Learn Docker
 
-- Install
+- Install (DONE)
 - Command line
 - Storage
 - Networks
