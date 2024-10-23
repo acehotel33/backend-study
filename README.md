@@ -178,7 +178,7 @@
 ## Learn Docker
 
 - Install (DONE)
-- Command line
+- Command line (DONE)
 - Storage
 - Networks
 - Dockerfiles
