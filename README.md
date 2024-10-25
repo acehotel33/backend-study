@@ -180,7 +180,7 @@
 - Install (DONE)
 - Command line (DONE)
 - Storage (DONE)
-- Networks
+- Networks (DONE)
 - Dockerfiles
 - Publish
 
