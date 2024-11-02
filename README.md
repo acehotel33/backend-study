@@ -181,7 +181,7 @@
 - Command line (DONE)
 - Storage (DONE)
 - Networks (DONE)
-- Dockerfiles
+- Dockerfiles (DONE)
 - Publish
 
 ## Learn CI/CD
