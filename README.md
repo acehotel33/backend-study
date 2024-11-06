@@ -184,7 +184,7 @@
 - Dockerfiles (DONE)
 - Publish (DONE)
 
-## Learn CI/CD
+## Learn CI/CD (IN PROGRESS)
 
 - Continuous Integration
 - Tests
