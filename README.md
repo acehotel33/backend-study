@@ -175,14 +175,14 @@
 - Following (DONE)
 - Aggregate (DONE)
 
-## Learn Docker
+## Learn Docker (DONE)
 
 - Install (DONE)
 - Command line (DONE)
 - Storage (DONE)
 - Networks (DONE)
 - Dockerfiles (DONE)
-- Publish
+- Publish (DONE)
 
 ## Learn CI/CD
 
